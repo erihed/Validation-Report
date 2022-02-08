@@ -1,0 +1,22 @@
+Quantify Compound Summary Report 
+
+Printed Tue May 14 08:59:36 2019
+
+Compound 1:  Sialinsyra
+
+	Sample Text	Type	Std. Conc	RT	Area	IS Area	Response	Conc.	%Dev	1º Ratio (Actual)	1º Ratio (Pred)	1º Ratio Flag	Dilution	S/N
+1	Kalibrator A	Standard	5.0	3.52	1002	31225	0.0321	3.75	-25.0				1	425
+2	Kalibrator B	Standard	25.0	3.52	7473	32243	0.2318	28.05	12.2				1	2593
+3	Kalibrator C	Standard	50.0	3.52	12545	29945	0.4189	50.82	1.6				1	2855
+4	Kalibrator D	Standard	100.0	3.52	27876	29232	0.9536	115.88	15.9				1	7518
+5	Kalibrator E	Standard	500.0	3.52	99656	24108	4.1337	502.84	0.6				1	19164
+6	Kalibrator F	Standard	1000.0	3.52	150990	18770	8.0442	978.67	-2.1				1	18790
+7	Blank	Analyte											0	
+8	BlankA	Analyte											0	
+9	Kalibrator A ny	Analyte	5.0	3.52	980	30133	0.0325	3.80	-24.0				0	411
+10	Kalibrator B ny	Analyte	25.0	3.52	5498	31092	0.1768	21.36	-14.5				0	1595
+11	Kalibrator C ny	Analyte	50.0	3.52	11482	30083	0.3817	46.29	-7.4				0	2347
+12	Kalibrator D ny	Analyte	100.0	3.52	21308	27576	0.7727	93.87	-6.1				0	6715
+13	Kalibrator E ny	Analyte	500.0	3.52	86908	23149	3.7542	456.66	-8.7				0	16269
+14	Kalibrator F ny	Analyte	1000.0	3.52	143482	19135	7.4986	912.27	-8.8				0	22068
+
